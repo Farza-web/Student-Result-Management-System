@@ -5,7 +5,9 @@ A beginner-level C++ project for managing student marks and results using arrays
 ## Author
 
 Farzana Akter
+
 Department of CSE
+
 Southeast University
 
 ## Features
